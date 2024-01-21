@@ -1,0 +1,8 @@
+name = "TWayFoil"
+uuid = "5480c6b8-93ec-40cb-b480-37b10fa40ca6"
+authors = ["ARCJ137442 <61109168+ARCJ137442@users.noreply.github.com>"]
+version = "0.1.0"
+
+[deps]
+ColorTypes = "3da002f7-5984-5a60-b8a6-cbb66c0b333f"
+PNGFiles = "f57f5aa1-a3ce-4bc8-8ab9-96f992907883"

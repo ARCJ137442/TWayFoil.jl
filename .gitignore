@@ -1,0 +1,8 @@
+# VSCode配置文件
+.vscode
+
+# 测试用文件
+*.test.*
+
+# 私用文件
+*.private.*
